@@ -1,0 +1,7 @@
+names:
+- crack
+nc: 1
+
+test: /home/piai/바탕화면/test.txt
+train: /home/piai/바탕화면/train.txt
+val: /home/piai/바탕화면/valid.txt
